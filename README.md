@@ -1,1 +1,1 @@
-<hr><p align="center">Hack Club <a href="https://hackclub.soleimani.dev">🡥</a></p><hr>
+<hr><p align="center">Hack Club <a href="https://arsenic.hackclub.com/soleimani">🡥</a></p><hr>
